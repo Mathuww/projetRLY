@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-phase de test commit mauvaise branche
-=======
->>>>>>> parent of f4c3046 (création de la branche master)
+phase de test commit mauvaise branche commit
